@@ -16,3 +16,5 @@
 3. Application:
 - Chat app: using Encoding ElGamal algorithm and Digital signature ElGamal algorithm to send and recive message
 - Banking: using Digital signature ElGamal algorithm to authentication and compelete transaction
+
+Link report in Vietnamese: https://youtu.be/2m1lXfm8Efo
